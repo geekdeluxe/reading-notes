@@ -1,7 +1,7 @@
 # reading-notes-102d40
 My Reading Notes for Code Fellows 
 
-## Geekdeluxe Codes!
+## Jennifer Kelly (geekdeluxe) is an expeditious professional, Salesforce devotee, and budding techie.  
 
 > The fairest thing we can experience is the mysterious. - Albert Einstein
 > 
@@ -9,5 +9,12 @@ My Reading Notes for Code Fellows
 > * Continual Progress Requires Continual Effort
 > * Lose the Ego, Put in the WORK
 > * Demonstrate *True Grit*
+
+[linkedin.com/in/jennifer-k-5456a21a3](url)
+
+[https://github.com/geekdeluxe](url)
+
+
+
 > 
 >  
