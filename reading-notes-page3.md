@@ -1,7 +1,7 @@
 # Choosing a Text Editor 
 
 ## There are many text editors (some basic and others specifically for coding. Each computer comes with a built-in text editor, but they're arent designed for coding. Code Fellows urges developers to be thoughtful when choosing which text editor(s) to use. For now, I'll focus on GitHub's Atom and Microsoft's Visual Studio Code. They both seem to be popular and have many important features. I'm eager to learn more about them! 
-###Thanks to The Older Coder for the following info re Atom and Microsoft's Visual Studio Code (aka VS Code).
+### Thanks to The Older Coder for the following info re Atom and Microsoft's Visual Studio Code (aka VS Code).
 
   **GitHub's Atom**
   +Host and review code on GitHub
