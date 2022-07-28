@@ -4,6 +4,7 @@
 ### Thanks to The Older Coder for the following info re Atom and Microsoft's Visual Studio Code (aka VS Code).
 
   **GitHub's Atom**
+ 
   +Host and review code on GitHub
   +Get help with your projects!
   +Hackable? 
@@ -13,6 +14,7 @@
   
   
   ***Microsoft's Visual Studio Code**
+  
   +Emmett is built in
   +Syntax Highlighting
   +Autosave!!
