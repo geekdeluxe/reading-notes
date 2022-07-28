@@ -5,21 +5,21 @@
 
   **GitHub's Atom**
  
-  +Host and review code on GitHub
-  +Get help with your projects!
-  +Hackable? 
-  +Learn about Emmmet (a useful Syntax for writing HTML efficiently). Install if not already built into Text Editor
-  +Code Completion is something to be truly thankful for. This is autofill for code. Remarkable stuff :)
-  +Syntax Highlighting (this feature colorizes text to reduce eye strain while coding).
+  + Host and review code on GitHub
+  + Get help with your projects!
+  + Hackable? 
+  + Learn about Emmmet (a useful Syntax for writing HTML efficiently). Install if not already built into Text Editor
+  + Code Completion is something to be truly thankful for. This is autofill for code. Remarkable stuff :)
+  + Syntax Highlighting (this feature colorizes text to reduce eye strain while coding).
   
   
   ***Microsoft's Visual Studio Code**
   
-  +Emmett is built in
-  +Syntax Highlighting
-  +Autosave!!
-  +Themes Available
-  +Code Completion (even includes closing tags and brackets when opened)
-  +Lots of extensions available
+  + Emmett is built in
+  + Syntax Highlighting
+  + Autosave!!
+  + Themes Available
+  + Code Completion (even includes closing tags and brackets when opened)
+  + Lots of extensions available
   
   
