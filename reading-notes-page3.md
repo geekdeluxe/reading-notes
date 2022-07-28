@@ -13,7 +13,7 @@
   + Syntax Highlighting (this feature colorizes text to reduce eye strain while coding).
   
   
-  ***Microsoft's Visual Studio Code**
+  **Microsoft's Visual Studio Code**
   
   + Emmett is built in
   + Syntax Highlighting
