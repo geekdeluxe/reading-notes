@@ -13,6 +13,33 @@ At Code Fellows, students learn to embrace the growth mindset. For me, it's the 
 > * Lose the Ego, Put in the WORK
 > * Demonstrate *True Grit*
 
+## Table of Contents
+
+
+[(linktoreadingnotespage2)(https://geekdeluxe.github.io/reading-notes-102d40/reading-notes-page2)]
+
+[linktoreadingnotespage3)(https://geekdeluxe.github.io/reading-notes-102d40/reading-notes-page3)]
+
+[linktoreadingnotespage4)(https://geekdeluxe.github.io/reading-notes-102d40/reading-notes-page4)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [linkedin.com/in/jennifer-k-5456a21a3](url)
 
 [https://github.com/geekdeluxe](url)
