@@ -16,11 +16,16 @@ At Code Fellows, students learn to embrace the growth mindset. For me, it's the 
 ## Table of Contents
 
 
-[(linktoreadingnotespage2)(https://geekdeluxe.github.io/reading-notes-102d40/reading-notes-page2)]
+[Mardown](https://geekdeluxe.github.io/reading-notes-102d40/reading-notes-page20)
 
-[linktoreadingnotespage3)(https://geekdeluxe.github.io/reading-notes-102d40/reading-notes-page3)]
+[The Coder's Computer](https://geekdeluxe.github.io/reading-notes-102d40/reading-notes-page3)
 
-[linktoreadingnotespage4)(https://geekdeluxe.github.io/reading-notes-102d40/reading-notes-page4)]
+[Revisions and the Cloud](https://geekdeluxe.github.io/reading-notes-102d40/reading-notes-page4)
+
+
+
+
+
 
 
 
