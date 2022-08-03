@@ -20,6 +20,8 @@ There is generally a specific formatting structure to follow when writing HTML, 
 Some important things to remember about using HTML are:
 
 + Use section vs div. Use semantic elements when possible
++ You can nest HTML elements (one command inside the other), just close the first command with a /> closing tag and then also close the line of code with  
+  another closing tag 
 + Use tab in VSCode to autocomplete
 + Wireframing is a visual layout (starts rough then usually gets more refined with each revision)
 + Wireframing resources are Invision, Google Drawings, Miro, and Wireframe.cc
