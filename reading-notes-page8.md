@@ -1,22 +1,22 @@
 # JavaScript Neat Stuff Continued
 
-##Control Flow
+## Control Flow
 + The order in which the computer carries out commands in a script (the chronology of command completion).
 + Just as the English language is read left to right, a computer also exectutes commands from a script in a certain order.
 + Conditionals (sets of rules) and loops (sequences of instructions which run on repeat until certain criteria are met)
   are things that can change the control flow (and this can happen often).
 
-##Functions
+## Functions
 +Foundational tools in JS
 + A code block created to do a specific thing (similar to a procedure).
 + Functions are executed when called or evoked by something. 
 + Functions must be defined or declared 
 
-##Expressions
+## Expressions
 + An expression is a working unit of code that resolves to a specific value (the value it was designed to resolve to).
 + Expressions can have side effects (extra features such as assigning values), or strictly evaluate and nothing else. 
 
-##Operators 
+## Operators 
 + Syntax used to carry out a computation, such as assign value (=), add (+) and multiply (*)
 + There are LOTS of operators in JS:
         +Assignment - assigns value 
