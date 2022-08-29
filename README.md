@@ -16,7 +16,7 @@ At Code Fellows, students learn to embrace the growth mindset. For me, it's the 
 ## Table of Contents
 
 
-[Mardown](https://geekdeluxe.github.io/reading-notes-102d40/reading-notes-page20)
+[Mardown](https://geekdeluxe.github.io/reading-notes-102d40/reading-notes-page2)
 
 [The Coder's Computer](https://geekdeluxe.github.io/reading-notes-102d40/reading-notes-page3)
 
@@ -45,9 +45,10 @@ At Code Fellows, students learn to embrace the growth mindset. For me, it's the 
 
 
 
-[linkedin.com/in/jennifer-k-5456a21a3](url)
+[LinkedIn](https://linkedin.com/in/jennifer-k-5456a21a3)
 
-[https://github.com/geekdeluxe](url)
+[GitHub](https://github.com/geekdeluxe)
+
 
 
 
