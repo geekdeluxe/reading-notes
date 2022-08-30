@@ -22,6 +22,19 @@ At Code Fellows, students learn to embrace the growth mindset. For me, it's the 
 
 [Revisions and the Cloud](https://geekdeluxe.github.io/reading-notes-102d40/reading-notes-page4)
 
+[Structure Web Pages With HTML](https://geekdeluxe.github.io/reading-notes-102d40/reading-notes-page5)
+
+[Design Web Pages With CSS](https://geekdeluxe.github.io/reading-notes-102d40/reading-notes-page6)
+
+[Activate Web Pages With JavaScript](https://geekdeluxe.github.io/reading-notes-102d40/reading-notes-page7)
+
+[Programming With JavaScript](https://geekdeluxe.github.io/reading-notes-102d40/reading-notes-page8)
+
+[Operators and Loops](https://geekdeluxe.github.io/reading-notes-102d40/reading-notes-page9)
+
+[Career Coaching](https://geekdeluxe.github.io/reading-notes-102d40/reading-notes-page10)
+
+
 
 
 
