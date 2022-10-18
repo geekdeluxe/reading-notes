@@ -38,7 +38,7 @@ At Code Fellows, students learn to embrace the growth mindset. For me, it's the 
 
 ## Table of Contents for Code 201
 
-[Reading 1]
+[Reading 1](Class-201/class-01.md)
 
 [Reading 2]
 
