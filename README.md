@@ -42,7 +42,7 @@ At Code Fellows, students learn to embrace the growth mindset. For me, it's the 
 
 [Reading 2]
 
-[Reading 3]
+[Reading 3](Class-201/class-03.md)
 
 [Reading 4]
 
