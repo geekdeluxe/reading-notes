@@ -40,33 +40,33 @@ At Code Fellows, students learn to embrace the growth mindset. For me, it's the 
 
 [Reading 1](Class-201/class-01.md)
 
-[Reading 2]
+[Reading 2](Class-201/class-02.md)
 
 [Reading 3](Class-201/class-03.md)
 
-[Reading 4]
+[Reading 4](Class-201/class-04.md)
 
-[Reading 5]
+[Reading 5](Class-201/class-05.md)
 
-[Reading 6]
+[Reading 6](Class-201/class-06.md)
 
-[Reading 7]
+[Reading 7](Class-201/class-07.md)
 
-[Reading 8]
+[Reading 8](Class-201/class-08.md)
 
-[Reading 9]
+[Reading 9](Class-201/class-09.md)
 
-[Reading 10]
+[Reading 10](Class-201/class-10.md)
 
-[Reading 11]
+[Reading 11](Class-201/class-11.md)
 
-[Reading 12]
+[Reading 12](Class-201/class-12.md)
 
-[Reading 13]
+[Reading 13](Class-201/class-13.md)
 
-[Reading 14]
+[Reading 14](Class-201/class-14.md)
 
-[Reading 15]
+[Reading 15](Class-201/class-15.md)
 
 
 
