@@ -1,3 +1,9 @@
+# Operning Statement
+
+HTML forms are everywhere on the web and allow a user to interact with a webpage by submitting data or controlling an interface. Forms are used across all industries and for many, many applications. Knowing what forms are, how to create them, and how they work is all essential knowledge to have as a web deverloper. 
+
+
+
 # HTML Forms 
 
 ## Your First Web Form. How to Structure a Web Form
