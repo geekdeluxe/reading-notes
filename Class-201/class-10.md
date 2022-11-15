@@ -1,6 +1,6 @@
 # Opening Statement
 
-This topic is important because ebugging your code is a crucial to writing clean code. Humans aren't perfect, and in many ways, technology helps us find and fix our faults. Debugging will be a valuable skill which will save a lot of time in the present and future. I'd like to think debugging will also allow a developer to become familiar with common errors and with time and experience, those errors will be avoided in the future. 
+This topic is important because debugging your code is a crucial to writing clean code. Humans aren't perfect, and in many ways, technology helps us find and fix our faults. Debugging will be a valuable skill which will save a lot of time in the present and future. I'd like to think debugging will also allow a developer to become familiar with common errors and with time and experience, those errors will be avoided in the future. 
 
 
 
