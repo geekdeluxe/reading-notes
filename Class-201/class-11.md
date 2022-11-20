@@ -37,7 +37,7 @@ The topic of video and audio content and responsive changes on web pages is cruc
     - sizes is an <img> attribute which defines a set of media conditions (such as screen width), and indicates what image size is best to use when certain 
       conditions are true.
 
-  # Things I Want to Learn More About 
+# Things I Want to Learn More About 
 
     - What kind of code does Blue Origin use to make their website so visually striking? I'm no Bezos fan, but man that's a beautiful website. I'll click around 
       and find out. 
