@@ -30,15 +30,14 @@ The topic of video and audio content and responsive changes on web pages is cruc
 # Responsive Changes
 
 
-
-# Things I Want to Learn More About 
-
     - Besides making a website visually appealing across different screen sizes, developers should make images responsive because it engages the end user, which 
       in turn may spark imagination and helps create a better user experience.
 
     - srcset is an <img> attribute which defines the images we'll allow the browser to choose between, and the sixe of each image.
     - sizes is an <img> attribute which defines a set of media conditions (such as screen width), and indicates what image size is best to use when certain 
       conditions are true.
+
+  # Things I Want to Learn More About 
 
     - What kind of code does Blue Origin use to make their website so visually striking? I'm no Bezos fan, but man that's a beautiful website. I'll click around 
       and find out. 
