@@ -4,10 +4,10 @@ The topic of JS Canvas and Chart.js is important because these tools allow devel
 
 # JavaScript Canvas
 
-- The <canvas> property allows the developer to draw 2D graphics using JavaScript.
+- The canvas property allows the developer to draw 2D graphics using JavaScript.
 
-- The importance of the closing </canvas> tag is that it's required. Also, content between the opening and closing tags only displays if the browser doesn't   
-  support the <canvas> element.
+- The importance of the closing /> canvas ag is that it's required. Also, content between the opening and closing tags only displays if the browser doesn't   
+  support the  canvas  element.
 
 - According to javascripttutorial.net, the getContext() method returns a render context object.
 
