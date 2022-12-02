@@ -18,7 +18,7 @@ The implications for psychological safety are *huge* and there is data to back t
   to stakeholders: success isn't easily quantifiable, and immediate ROI and financial gain shouldn't be your only measurements for success.
   that!
 
-# Things I Weant to Learn More About 
+# Things I Want to Learn More About 
 
 - Project Aristotle
 - Psychological Safety (also learn more about Tara Scott's work on this topic at Industrial Logic)
